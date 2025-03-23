@@ -93,6 +93,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 
 Para mais informações, entre em contato:
 
-- **Seu Nome** - Breno Cavalcante
+- **Breno Cavalcante**
 - **GitHub:** https://github.com/brenolx
 
