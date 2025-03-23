@@ -18,8 +18,8 @@ Siga os passos abaixo para configurar o ambiente e instalar as dependências:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/brenolx/net-speed.git
-   cd net-speed
+   git clone https://github.com/brenolx/app_netspeed.git
+   cd app_netspeed
    ```
 
 2. **(Opcional) Crie um ambiente virtual:**
@@ -45,7 +45,7 @@ Siga os passos abaixo para configurar o ambiente e instalar as dependências:
 Para executar o programa, utilize o seguinte comando:
 
 ```bash
-python net_speed.py
+python main.py
 ```
 
 ### Comandos Disponíveis
