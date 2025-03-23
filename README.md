@@ -1,4 +1,4 @@
-# NET-SPEED
+# NET-SPEED v1.0
 
 ![Licença](https://img.shields.io/badge/licença-MIT-brightgreen) ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
