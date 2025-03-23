@@ -93,6 +93,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 
 Para mais informações, entre em contato:
 
-- **Seu Nome** - seuemail@example.com
-- **GitHub:** https://github.com/seuusuario
+- **Seu Nome** - Breno Cavalcante
+- **GitHub:** https://github.com/brenolx
 
