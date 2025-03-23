@@ -35,15 +35,17 @@ def options():
 		print('\n')
 		op_user = input('>>')
 
-		# Abre opcao ajuda
+		# Opção ajuda
 		if op_user == '--help' or op_user == '-h':
 			help()
-	
+
+		# Opção medir velocidade
 		elif op_user == '--net-speed' or op_user == '-ns':
 			download()
 			upload()
 			ping()
-	
+
+		# Opção sair
 		elif op_user == '--exit'or op_user == '-e':
 			print('\nClose aplication.')
 			break
@@ -57,4 +59,4 @@ def main():
 	
 
 if __name__=="__main__":
-		main()
+	main()
